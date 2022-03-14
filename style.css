@@ -1,0 +1,31 @@
+body
+{
+   background-color: beige;
+}
+#nun
+{
+    background-color: rgb(244, 247, 250);
+    margin: 30px;
+    text-align:center;
+    font-size: 45px;
+    color: blue;
+}
+/*body
+{
+    background-image: url(flight/cheese.jfif);
+    background-repeat: repeat-x ;
+}*/
+#but
+{
+    background-color: red;
+    border-radius: 10px;
+    padding: 5px;
+}
+#di{
+    border: 5px;
+    width: 50%;
+}
+#gf
+{text-align: center;
+
+}
